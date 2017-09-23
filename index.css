@@ -10,3 +10,17 @@
   inset -3em 0 3em -3em blue;
 
 }
+.blue-text h1{
+  text-shadow: blue 0 -2px;
+}
+.blue-text p{
+  border: solid;
+  transform: translate(0px) rotate(5deg);
+  transform-origin: 0 -25px;
+}
+
+@font-face{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Asap Condensed', sans-serif;
+}
