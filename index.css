@@ -1,0 +1,12 @@
+.title{
+    border:10px solid #000;
+    border-radius: 10px 40px 40px 10px;
+    width: 200px;
+    height: 100px;
+    background-color:#ccc;
+}
+.title{
+  box-shadow: inset 13em 0 3em -3em orange,
+  inset -3em 0 3em -3em blue;
+
+}
